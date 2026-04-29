@@ -100,11 +100,11 @@ location :  Thailand 🇹🇭
 
 ---
 
-### �📈 &nbsp; Contribution Activity
+###  &nbsp; Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ballbandit2541&theme=tokyo-night&hide_border=true&area=true&custom_title=My%20Contribution%20Graph" width="100%" />
+[![ballbandit2541's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ballbandit2541&theme=tokyonight)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -114,7 +114,7 @@ location :  Thailand 🇹🇭
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ballbandit2541&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" />
+[![ballbandit2541's trophies](https://github-profile-trophy.vercel.app/?username=ballbandit2541&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -127,7 +127,7 @@ location :  Thailand 🇹🇭
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ballbandit2541/ballbandit2541/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ballbandit2541/ballbandit2541/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/ballbandit2541/ballbandit2541/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ballbandit2541/ballbandit2541/output/github-snake.svg" width="100%" />
 </picture>
 
 </div>
