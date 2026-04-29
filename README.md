@@ -90,7 +90,17 @@ location :  Thailand 🇹🇭
 
 ---
 
-### 📈 &nbsp; Contribution Activity
+### � &nbsp; Metrics
+
+<div align="center">
+
+![Metrics](github-metrics.svg)
+
+</div>
+
+---
+
+### �📈 &nbsp; Contribution Activity
 
 <div align="center">
 
